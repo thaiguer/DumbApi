@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DumbApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7a4dbb8a8aa9a863829f1a004c270d035ab65c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e33c500b23687fa4242de60565a3a8ff4774e10f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DumbApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DumbApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
