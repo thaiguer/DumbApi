@@ -23,3 +23,4 @@
 /home/mstrmind/dev/DumbApi/obj/Debug/net8.0/DumbApi.pdb
 /home/mstrmind/dev/DumbApi/obj/Debug/net8.0/DumbApi.genruntimeconfig.cache
 /home/mstrmind/dev/DumbApi/obj/Debug/net8.0/ref/DumbApi.dll
+/home/mstrmind/dev/DumbApi/obj/Debug/net8.0/DumbApi.sourcelink.json

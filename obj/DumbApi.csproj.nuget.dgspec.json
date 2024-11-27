@@ -13,6 +13,7 @@
         "packagesPath": "/home/mstrmind/.nuget/packages/",
         "outputPath": "/home/mstrmind/dev/DumbApi/obj/",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/home/mstrmind/.nuget/NuGet/NuGet.Config"
         ],
@@ -32,11 +33,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -61,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/250/sdk/8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
